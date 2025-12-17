@@ -1,14 +1,29 @@
-- 👋 <div align="center">
+div align="center">
   <h1>Hi 👋, I'm ABUBAKAR</h1>
   <h3>A passionate NETWORK ENGINEER from KENYA</h3>
-</div>
-- 👀 I’m interested in NETWORKING
-- 🌱 I’m currently learning 
-CCNA cisco,COMPTIA+,COMPTIA NETWORK+ MICROSOFT AZURE ADMINISTRATOR {Az-104}
-- 💞️ I’m looking to collaborate on 
-OPEN SOURCE NETWORKING PROJECTS
-- 📫 How to reach me abubakariabdullahi011@gmail.com
 
+  <img src="https://komarev.com/ghpvc/?username=Abunaiz&label=Profile%20views&color=0e75b6&style=flat" alt="Abunaiz" />
+</div>
+
+---
+
+### 🚀 About Me
+- 👀 I’m interested in *Networking, Cloud Security, and Infrastructure*
+- 🌱 I’m currently learning *CCNA Cisco, CompTIA+, CompTIA Network+, and Microsoft Azure Administrator*
+- 💞️ I’m looking to collaborate on *Open Source Networking Projects*
+- 📫 How to reach me: *your-email@example.com*
+
+### 🛠 Languages and Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,bash,python,git,docker,c" />
+</div>
+
+---
+
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abunaiz&show_icons=true&theme=radical" alt="Abunaiz GitHub Stats" />
+</div>
 
 
 <!---
