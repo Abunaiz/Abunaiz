@@ -15,7 +15,7 @@
 - ### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/abubakari-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abubakar LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/Abubakar_A_hmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x .svg" alt="Abubakar Twitter" height="30" width="40" /></a>
+<a href="https://x.com/Abubakar_A_hmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x .svg" alt="Abubakar x" height="30" width="40" /></a>
 <a href="https://fb.com/abubakar.abdullahi.660298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abubakar Facebook" height="30" width="40" /></a>
 <a href="mailto:abubakariabdullahi011@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Abubakar Email" height="30" width="40" /></a>
 </p
