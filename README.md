@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm ABUBAKAR</h1>
   <h3>A passionate NETWORK ENGINEER from KENYA</h3>
 <div align="center">
-  <img src="network.jpg" width="100%" alt="Network Engineer Abubakar" />
+  <img src="WhatsApp Image 2025-12-17 at 13.18.29 (1).jpeg" width="100%" alt="Network Engineer Abubakar" />
 </div>
   
 </div>
