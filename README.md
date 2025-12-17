@@ -11,7 +11,7 @@ div align="center">
 - 👀 I’m interested in *Networking, Cloud Security, and Infrastructure*
 - 🌱 I’m currently learning *CCNA Cisco, CompTIA+, CompTIA Network+, and Microsoft Azure Administrator*
 - 💞️ I’m looking to collaborate on *Open Source Networking Projects*
-- 📫 How to reach me: *your-email@example.com*
+- 📫 How to reach me: *Abubakariabdullahi011@egmail.com*
 
 ### 🛠 Languages and Tools:
 <div align="left">
