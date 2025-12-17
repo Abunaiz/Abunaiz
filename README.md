@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm ABUBAKAR</h1>
   <h3>A passionate NETWORK ENGINEER from KENYA</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=Abunaiz&label=Profile%20views&color=0e75b6&style=flat" alt="Abunaiz" />
+  <img src="https:///gnetworkhpvc/?username=Abunaiz&label=Profile%20views&color=0e75b6&style=flat" alt="Abunaiz" />
 </div>
 
 ---
