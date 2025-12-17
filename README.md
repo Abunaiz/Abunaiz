@@ -16,12 +16,16 @@
 - 📫 How to reach me: *Abubakariabdullahi011@egmail.com*
 - ### 🤝 Connect with me:
 <p align="left">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />(https://github.com/Abunaiz)
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />(https://www.linkedin.com/in/abubakari-ahmed)
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />(https://x.com/Abubakar_A_hmed)
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />(https://discord.gg/QQsq9NUp)
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />(https://www.instagram.com/abunaiz_lil?igsh=ZXA4OHVzbGxnMDgz)
-<img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />(https://www.threads.com/@abunaiz_lil)[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />(https://www.facebook.com/abubakar.abdullahi.660298)
+  
+### Connect with me:
+
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abubakari-ahmed)
+[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Abubakar_A_hmed)
+[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/QQsq9NUp)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/abunaiz_lil?igsh=ZXA4OHVzbGxnMDgz)
+[<img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" />](https://www.threads.com/@abunaiz_lil)
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/abubakar.abdullahi.660298)
+[<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Abunaiz)
 
  
  ### 🛠 Languages and Tools:
