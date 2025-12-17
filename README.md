@@ -28,10 +28,16 @@
 [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Abunaiz)
 
  
- ### 🛠 Languages and Tools:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,bash,python,git,docker,c" />
-</div>
+
+### Languages and Tools:
+
+[<img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" />](https://www.cisco.com/)
+[<img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />](https://www.wireshark.org/)
+[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org/)
+[<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />](https://aws.amazon.com/)
+[<img src="https://img.shields.io/badge/Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />](https://azure.microsoft.com/)
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
+[<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 
 ---
 
