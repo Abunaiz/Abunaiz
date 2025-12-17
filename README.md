@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm ABUBAKAR</h1>
   <h3>A passionate NETWORK ENGINEER from KENYA</h3>
 <div align="center">
-  <img src="" width="100%" alt="Network Engineer Abubakar" />
+  <img src="network.jpg" width="100%" alt="Network Engineer Abubakar" />
 </div>
   
 </div>
